@@ -1,3 +1,5 @@
+---
+---
 # Handlebars
 
 ## Learning Objectives
@@ -122,4 +124,8 @@ Leia Organa
 Luke Skywalker
 
 ### Bonus
+
 Loop through the characters to render the html using a template
+
+http://handlebarsjs.com/builtin_helpers.html#iteration
+
