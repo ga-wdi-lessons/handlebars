@@ -11,7 +11,7 @@ In web applications of today, there is a significant amount of duplication of HT
 
 ## Not so DRY HTML
 
-Let's take a look at this [web page](https://github.com/andrewsunglaekim/undry_html/blob/master/index.html). It looks fine, but there seems to be lots of duplication. All the `<div>`s, `<h2>`s, `<p>`s look identical barring the content inside of them. Currently we don't know of a way to abstract this markup to prevent duplication. Enter templating.
+Let's take a look at this [web page](https://github.com/ga-wdi-exercises/star-wars-with-hbs/blob/master/undry.html). It looks fine, but there seems to be lots of duplication. All the `<div>`s, `<h2>`s, `<p>`s look identical barring the content inside of them. Currently we don't know of a way to abstract this markup to prevent duplication. Enter templating.
 
 ## Handlebars
 
