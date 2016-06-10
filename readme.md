@@ -118,6 +118,9 @@ If we refresh the browser now, we'll see the `demoObj` two properties show up in
 > notice that we did not have to put demoObj inside of the `{{}}`, and only had to put the properties name.
 
 ## I do - Star Wars Templating
+
+https://github.com/ga-wdi-exercises/star-wars-with-hbs
+
 Leia Organa
 
 ## You do - Star Wars Templating
